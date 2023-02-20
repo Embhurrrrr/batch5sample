@@ -1,0 +1,27 @@
+
+Feb 17, 2023 2:53:19 PM org.ssglobal.training.codes.MathOp div
+SEVERE: Division by zero error
+Feb 17, 2023 3:07:26 PM org.ssglobal.training.codes.MathOp div
+INFO: Start of method div() with parameters: x = 10 y = 2
+Feb 17, 2023 3:07:26 PM org.ssglobal.training.codes.MathOp div
+INFO: End of method div() with parameters: x = 10 y = 2
+Feb 17, 2023 3:07:41 PM org.ssglobal.training.codes.MathOp div
+INFO: Start of method div() with parameters: x = 10 y = 0
+Feb 17, 2023 3:07:41 PM org.ssglobal.training.codes.MathOp div
+SEVERE: Division by zero error
+Feb 17, 2023 3:07:47 PM org.ssglobal.training.codes.MathOp display
+INFO: Start of method diplayArray() with parameters: arrData = [1, 2, 3, 4, 5]
+Feb 17, 2023 3:07:47 PM org.ssglobal.training.codes.MathOp display
+INFO: End of method diplayArray() with parameters: arrData = [1, 2, 3, 4, 5]
+Feb 17, 2023 3:07:56 PM org.ssglobal.training.codes.MathOp display
+INFO: Start of method diplayArray() with parameters: arrData = null
+Feb 17, 2023 3:07:56 PM org.ssglobal.training.codes.MathOp display
+SEVERE: Cannot read the array length because "arrData" is null
+Feb 17, 2023 3:07:56 PM org.ssglobal.training.codes.MathOp display
+INFO: End of method diplayArray() with parameters: arrData = null
+Feb 17, 2023 3:08:01 PM org.ssglobal.training.codes.MathOp add
+INFO: Start of method add() with parameters: x = 2 y = 3
+Feb 17, 2023 3:08:01 PM org.ssglobal.training.codes.MathOp add
+WARNING: Using custom Date() object
+Feb 17, 2023 3:08:01 PM org.ssglobal.training.codes.MathOp add
+INFO: End of method add() with parameters: x = 2 y = 3
